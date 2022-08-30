@@ -82,5 +82,20 @@ hr{
     background-color: rgb(72, 159, 72);
 }
 
+.check{
+    font-size: 13px;
+    color: grey;
+    padding: 5px;
+    border: solid 1px grey;
+    border-radius: 50%;
+}
+
+.croce{
+    font-size: 13px;
+    color: red;
+    padding: 5px;
+    border: solid 1px red;
+    border-radius: 50%;
+}
 
 
