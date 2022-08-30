@@ -62,3 +62,25 @@ hr{
 }
 
 /*modifico main*/
+
+.dettagli{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.evidenzia{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 20%;
+}
+
+.grey{
+    background-color: rgb(200, 173, 173);
+}
+
+.green{
+    background-color: rgb(72, 159, 72);
+}
+
+
+
