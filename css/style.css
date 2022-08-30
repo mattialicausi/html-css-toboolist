@@ -33,17 +33,21 @@ main{
 
 #bottone1{
     
-    background-color: rgb(153, 187, 200);
+    background-color: rgb(114, 174, 198);
     color: white;
-    border-radius: 20%;
+    border-radius: 10%;
     padding: 5px;
+    border: 0;
+   
 }
 
 #bottone2{
-    border-radius: 20%;
+    border-radius: 10%;
     padding: 5px;
     background-color: white;
     color: grey;
+    border: solid, 1px, grey;
+    
 }
 
 hr{
