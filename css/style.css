@@ -10,22 +10,24 @@
 h1{
 
     display: inline-block;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 img{
     margin-left: 5px;
     margin-top: 5px;
-    width: 30px;
+    width: 50px;
 
 }
 
 /*allineo main al centro*/
 
 main{
-    margin-top: 10%;
+    margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
+    padding: 20px;
+    border-radius: 5%;
 
 }
 
@@ -50,11 +52,15 @@ hr{
 }
 
 /*modifico colore sfondo*/
+body{
+    background-color: rgb(250, 243, 243);
+}
+header, main{
+    background-color: white;
+}
 
-/*main{
-    background-color: grey;
-    opacity: 0.60;
-}*/
+
+
 
 #sezione_bottoni{
    margin: auto;
