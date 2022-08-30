@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/*modifico header*/
+
+h1{
+
+    display: inline-block;
+    font-size: 40px;
+}
+
+img{
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 30px;
+
+}
+
+/*allineo main al centro*/
+
+main{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+#bottone1{
+    
+    background-color: rgb(153, 187, 200);
+    color: white;
+    border-radius: 20%;
+    padding: 5px;
+}
+
+#bottone2{
+    border-radius: 20%;
+    padding: 5px;
+    background-color: white;
+    color: grey;
+}
+
+hr{
+    opacity: 0.50;
+    margin-top: 5px;
+}
+
+/*modifico colore sfondo*/
+
+/*main{
+    background-color: grey;
+    opacity: 0.60;
+}*/
+
+#sezione_bottoni{
+   margin: auto;
+   background-color: white;
+}
+
+/*modifico main*/
